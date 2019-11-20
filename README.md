@@ -8,7 +8,7 @@
   <h1>Deploying a React App* to GitHub Pages</h1>
   <p>* created using <code>create-react-app</code></p>
   <h1>Introduction</h1>
-  <p>In this tutorial, I'll show you how to deployed a React app�which I created using <code>create-react-app</code>�to
+  <p>In this tutorial, I'll show you how to deployed a React app which I created using <code>create-react-app</code> to
     GitHub Pages and how the project should be started</p>
   <p>You can visit the deployed app, at <a href="https://natalijajovanovska.github.io/react-app/#/" rel="nofollow">https://natalijajovanovska.github.io/react-app/#/</a>.</p>
   <p>This repository contains the files related to the app. The <code>master</code> branch contains the app's source
@@ -69,12 +69,12 @@ v12.2.0</pre>
     <li>
       <p><strong>Create a new React app on your computer.</strong></p>
       <div>
-        <pre>$ create-react-app react-gh-pages</pre>
+        <pre>$ create-react-app react-app</pre>
       </div>
     </li>
     <li>
       <p><strong>Install the <code>gh-pages</code> package as a "dev-dependency" of the app.</strong></p>
-      <pre><code>$ cd react-gh-pages
+      <pre><code>$ cd react-app
 $ npm install gh-pages --save-dev
 </code></pre>
       <ul>
