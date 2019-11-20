@@ -6,7 +6,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 const Header = props => (
 
     <Navbar fixed="top" bg="dark" variant="dark">
-        <Navbar.Brand href="/" className={props.scroll ? 'scrolled brand hover-text' : 'not-scrolled brand hover-text'} >The Quadrant Event</Navbar.Brand>
+        <Navbar.Brand className={props.scroll ? 'scrolled brand hover-text' : 'not-scrolled brand hover-text'} >The Quadrant Event</Navbar.Brand>
         <Nav>
             <Link to="/CustomGuest" className="text-white text-decoration-none hover-text">Add Custom Guest</Link>
         </Nav>
