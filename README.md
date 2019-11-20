@@ -149,7 +149,7 @@ $ git push origin master
   </ol>
   <h1>Starting the application</h1>
   <p>Clone the application from https://github.com/natalijajovanovska/react-app.git</p>
-  <pre><code>$ git clone
+  <pre><code>$ git clone https://github.com/natalijajovanovska/react-app.git
     </code></pre>
   <p><strong>Install the npm packages used in this project.</strong></p>
   <pre><code>$ npm install
