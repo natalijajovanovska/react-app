@@ -1,5 +1,6 @@
 <div>
   <h1>The Quadrant Event</h1>
+  <p>Published at: https://natalijajovanovska.github.io/react-app/#/</p>
   <p>React.js application used for visually arranging guests in 4 different areas. Guests lists fetched at: https://jsonplaceholder.typicode.com/users .</p>
   <p>Application contains a section for adding custom guests and a 404 Error Page.</p>
   <p><strong>Used dependencies:</strong></p>
